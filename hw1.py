@@ -1,6 +1,6 @@
-#1. ASSIGNMENT QN-1
 
-# 13. What are decorators in Python? 
+
+# Q. What are decorators in Python? 
 # Decorators in Python are a design pattern that allows you to add new functionality to an existing object
 #  without modifying its structure. They are commonly used to extend the behavior of functions or methods.
 
